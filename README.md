@@ -11,6 +11,9 @@ Null-StateOS (∅OS) Is a minimal OS that, ~~Hates you.~~
 3. Starts you off with what you only _truly_ need.
 4. And Has incredibly speedy, top of the line Boot times, to ensure you get right into your work!
 
+
+Null-StateOS is made for those who want a performant, bloat-free experience with _'unlimited'_ freedom over their computer and Operating System! 
+
 ---
 
 
