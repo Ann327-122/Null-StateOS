@@ -8,8 +8,10 @@ Null-StateOS (∅OS) Is a minimal OS that, ~~Hates you.~~
  
 1. Gives you complete control over your hardware,
 2. Comes with absolutely minimum bloatware,
-3. Starts you off with what you only _truly_ need.
-4. And Has incredibly speedy, top of the line Boot times, to ensure you get right into your work!
+3. Starts you off with what you only _truly_ need,
+4. Has a fast, integrated UI framework built-in, with easy keybinds for context switching,
+5. Is completely turing complete, and a self-contained development environment, allowing you to build your first ```Hello, world!``` to your very own apps and software!
+6. And Has incredibly speedy, top of the line Boot times, to ensure you get right into your work!
 
 
 Null-StateOS is made for those who want a performant, bloat-free experience with _'unlimited'_ freedom over their computer and Operating System! 
