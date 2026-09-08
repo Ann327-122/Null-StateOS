@@ -4,6 +4,7 @@ The only OS that gives you full control over your hardware with minimal bloat!
 ---
 
 Null-StateOS (∅OS) Is a minimal OS that,
+
 ~~0. Hates you.~~
 1. Gives you complete control over your hardware,
 2. Comes with absolutely minimum bloatware,
