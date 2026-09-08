@@ -3,9 +3,9 @@ The only OS that gives you full control over your hardware with minimal bloat!
 
 ---
 
-Null-StateOS (∅OS) Is a minimal OS that,
+Null-StateOS (∅OS) Is a minimal OS that, ~~Hates you.~~
 
- ~~0. Hates you.~~
+ 
 1. Gives you complete control over your hardware,
 2. Comes with absolutely minimum bloatware,
 3. Starts you off with what you only _truly_ need.
