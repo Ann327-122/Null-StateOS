@@ -1,5 +1,5 @@
 # Null-StateOS
-The only OS that gives you full control over your hardware with minimal bloat, built for _most_ < EFI 3 x86 Devices!
+The only OS that gives you full control over your hardware with minimal bloat, built for _most_ < EFI 3 x86 Devices, all built in ***only ~8kb!***
 
 ---
 
